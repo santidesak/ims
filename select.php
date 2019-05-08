@@ -1,8 +1,8 @@
 <?php
-$db_host = 'localhost'; // Nama Server
-$db_user = 'root'; // User Server
-$db_pass = ''; // Password Server
-$db_name = 'db_univ'; // Nama Database
+$db_host = '167.99.69.153'; // Nama Server
+$db_user = 'evaazzrnax'; // User Server
+$db_pass = 'Yrf5WSzPwH'; // Password Server
+$db_name = 'evaazzrnax'; // Nama Database
 
 $conn = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
 if (!$conn) {
